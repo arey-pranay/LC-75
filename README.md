@@ -2,6 +2,6 @@
 
 ### Day 1
 
-1768 - Merge Strings Alternately
-1071 - Greatest Common Divisor of Strings
-1431 - Kids With the Greatest Number of Candies
+- Merge Strings Alternately 1768
+- Greatest Common Divisor of Strings 1071 
+- Kids With the Greatest Number of Candies 1431 
