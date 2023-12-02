@@ -14,5 +14,5 @@
 
   ### Day 3
 
-- Product Of Array 238
-- Increasing Triplet Subsequence 334
+- Product Of Array 238 💛
+- Increasing Triplet Subsequence 334 💛
