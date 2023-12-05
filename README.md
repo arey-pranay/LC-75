@@ -19,7 +19,9 @@
 
   ### Day 4
 
-- Container With Most Water 11 ❤
-- Max Number of K-Sum Pairs 1679 💛
+- Container With Most Water 11 💛
+- Max Number of K-Sum Pairs 1679 💚
 
-  
+  ### Day 5
+
+- Maximum Average Subarray I 643 💚
