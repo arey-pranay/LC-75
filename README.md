@@ -31,7 +31,7 @@
  - Maximum Number of Vowels in a Substring of Given Length 1456 💚
  - Max Consecutive Ones III 1004 💛
 
- ### Day 8
+ ### Day 7
 
  - Longest Subarray of 1's After Deleting One Element  1493 💚
  - Find the Highest Altitude 1732 💚
